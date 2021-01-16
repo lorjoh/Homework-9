@@ -39,8 +39,8 @@ function generateMarkdown(data, githubData) {
   - [GitHub Profile](${githubData.profile})
   - <${githubData.email}>
 
-  // ![user image](${data.image})
-  // ### ${data.email !== null ? "[" + data.email + "](mailto:" + data.email + ")" : "This email is private."}  
+  // ![user image](${githubData.image})
+  // ### ${githubData.email !== null ? "[" + githubData.email + "](mailto:" + githubData.email + ")" : "This email is private."}  
   // `;
   }
 
