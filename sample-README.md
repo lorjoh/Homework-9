@@ -33,9 +33,11 @@
   ## Repository
   - [Project Repo](https://github.com/lorjoh/Homework-9)
 
-  -[Screenshots]![Untitled_ Jan 16, 2021 8_22 AM](https://user-images.githubusercontent.com/68030713/104813852-c59f4000-57d9-11eb-9406-99f063aee27d.gif)
+  -[Screenshots]
+  ![Untitled_ Jan 16, 2021 8_22 AM](https://user-images.githubusercontent.com/68030713/104813852-c59f4000-57d9-11eb-9406-99f063aee27d.gif)
 
-  -[Screenshots]![goodREADMEGenerator](https://user-images.githubusercontent.com/68030713/104814818-d0100880-57de-11eb-9745-224eeabf70e8.gif)
+  -[Screenshots]
+  ![goodREADMEGenerator](https://user-images.githubusercontent.com/68030713/104814818-d0100880-57de-11eb-9745-224eeabf70e8.gif)
 
   -[Sample README.md](..\Homework-9\Develop\newREADME.md)
 
